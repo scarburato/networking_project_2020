@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="progetto_clion" targetName="all" />
+      <config projectName="progetto_clion" targetName="build" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6c2338e-8e5c-43c3-83ca-11430fedff8b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MakefileLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progetto_clion" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="progetto_clion" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1mU3XeHqmgeHv5nI4KuwYEU0FKZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/shared" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/shared" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Makefile Application.peer">
+    <configuration name="all" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="progetto_clion" TARGET_NAME="all" CONFIG_NAME="all" version="1" RUN_PATH="$PROJECT_DIR$/build/ds">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="build" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="progetto_clion" TARGET_NAME="build" CONFIG_NAME="build" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="peer" type="CLionNativeAppRunConfigurationType" PROGRAM_PARAMS="5601 autoboot" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="progetto_clion" TARGET_NAME="all" CONFIG_NAME="all" version="1" RUN_PATH="$PROJECT_DIR$/build/peer">
+      <envs>
+        <env name="PEER_WORK_DIR" value="$PROJECT_DIR$/config/peer-5601" />
+      </envs>
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="build/ds" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="build/ds" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="build/libcommon.so" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="build/libcommon.so" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="ds" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="ds" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Makefile Application.all" />
+      <item itemvalue="Makefile Application.peer" />
+      <item itemvalue="Makefile Application.build" />
+      <item itemvalue="Makefile Target.build/ds" />
+      <item itemvalue="Makefile Target.build/libcommon.so" />
+      <item itemvalue="Makefile Target.ds" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6c2338e-8e5c-43c3-83ca-11430fedff8b" name="Default Changelist" comment="" />
+      <created>1609534385606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609534385606</updated>
+      <workItem from="1609534386912" duration="3817000" />
+      <workItem from="1609586520914" duration="1622000" />
+      <workItem from="1609604240507" duration="2490000" />
+      <workItem from="1609620476291" duration="2559000" />
+      <workItem from="1609684038141" duration="5192000" />
+      <workItem from="1609691842361" duration="11255000" />
+      <workItem from="1609757144926" duration="1493000" />
+      <workItem from="1609778599003" duration="8231000" />
+      <workItem from="1609836006940" duration="9148000" />
+      <workItem from="1609854675033" duration="976000" />
+      <workItem from="1609867042420" duration="7277000" />
+      <workItem from="1609927931470" duration="3866000" />
+      <workItem from="1610009393436" duration="924000" />
+      <workItem from="1610035223256" duration="10025000" />
+      <workItem from="1610094148577" duration="1003000" />
+      <workItem from="1610122599408" duration="13223000" />
+      <workItem from="1610209173396" duration="10533000" />
+      <workItem from="1610314633670" duration="119000" />
+      <workItem from="1610570178688" duration="1733000" />
+      <workItem from="1610612716898" duration="13023000" />
+      <workItem from="1610722714959" duration="3774000" />
+      <workItem from="1611566921045" duration="599000" />
+      <workItem from="1611682139947" duration="2591000" />
+      <workItem from="1611692911104" duration="4736000" />
+      <workItem from="1611737261870" duration="9368000" />
+      <workItem from="1611868139716" duration="1524000" />
+      <workItem from="1611940041449" duration="8284000" />
+      <workItem from="1612004988500" duration="6495000" />
+      <workItem from="1612802479680" duration="597000" />
+      <workItem from="1612873034382" duration="3349000" />
+      <workItem from="1612891323732" duration="10508000" />
+      <workItem from="1612963124705" duration="12088000" />
+      <workItem from="1612981658519" duration="2295000" />
+      <workItem from="1612989297739" duration="3503000" />
+      <workItem from="1613050024559" duration="7063000" />
+      <workItem from="1613063775710" duration="5839000" />
+      <workItem from="1613118590110" duration="16378000" />
+      <workItem from="1613148495555" duration="15632000" />
+      <workItem from="1613207574011" duration="30595000" />
+      <workItem from="1613253309182" duration="739000" />
+      <workItem from="1613293005788" duration="10591000" />
+      <workItem from="1613309171601" duration="20381000" />
+      <workItem from="1613379489067" duration="6000" />
+      <workItem from="1613379533020" duration="3225000" />
+      <workItem from="1613385527916" duration="5719000" />
+      <workItem from="1613392162750" duration="691000" />
+      <workItem from="1613412392704" duration="278000" />
+      <workItem from="1613474189135" duration="105000" />
+      <workItem from="1641675692001" duration="12000" />
+      <workItem from="1641675863581" duration="422000" />
+      <workItem from="1641676305506" duration="137000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
